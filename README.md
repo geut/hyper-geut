@@ -2,7 +2,7 @@
 
 Just because we can!
 
-![screencapture](./screenshot.png)
+![screencapture](https://raw.githubusercontent.com/geut/hyper-geut/master/screenshot.png)
 
 > inspired by [hyperrabbit](https://github.com/timneutkens/hyperrabbit)
 
